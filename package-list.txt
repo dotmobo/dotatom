@@ -13,4 +13,3 @@ terminal-plus
 travis-ci-status
 pigments
 merge-conflicts
-vim-mode
