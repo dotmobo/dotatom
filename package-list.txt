@@ -9,7 +9,6 @@ linter
 linter-pep8
 minimap
 monokai
-terminal-plus
 travis-ci-status
 pigments
 merge-conflicts
