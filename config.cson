@@ -1,0 +1,18 @@
+"*":
+  "exception-reporting":
+    userId: "dd8cb4fb-a2cd-33e0-b70a-709136a9d196"
+  welcome:
+    showOnStartup: false
+  core:
+    themes: [
+      "one-dark-ui"
+      "monokai"
+    ]
+  editor:
+    fontSize: 15
+    invisibles: {}
+    tabLength: 4
+  linter:
+    errorPanelHeight: 144
+  "atom-beautify":
+    _analyticsUserId: "7d7812d1-2cd0-44c2-8366-bc81a9fc5d5c"

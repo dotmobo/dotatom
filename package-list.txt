@@ -1,0 +1,16 @@
+atom-beautify
+autocomplete-paths
+autocomplete-python
+color-picker
+emmet
+file-icons
+git-plus
+linter
+linter-pep8
+minimap
+monokai
+terminal-plus
+travis-ci-status
+pigments
+merge-conflicts
+vim-mode
