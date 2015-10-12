@@ -1,0 +1,2 @@
+# dotatom
+Atom configuration
