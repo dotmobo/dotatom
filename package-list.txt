@@ -13,4 +13,4 @@ travis-ci-status
 pigments
 merge-conflicts
 highlight-selected
-pretty-json
+language-restructuredtext
