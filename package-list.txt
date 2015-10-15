@@ -6,7 +6,7 @@ emmet
 file-icons
 git-plus
 linter
-linter-pep8
+linter-flake8
 minimap
 monokai
 travis-ci-status
