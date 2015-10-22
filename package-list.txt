@@ -14,3 +14,4 @@ pigments
 merge-conflicts
 highlight-selected
 language-restructuredtext
+MagicPython

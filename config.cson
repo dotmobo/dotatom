@@ -8,6 +8,9 @@
       "one-dark-ui"
       "monokai"
     ]
+    disabledPackages: [
+      "language-python"
+    ]
   editor:
     fontSize: 15
     invisibles: {}
