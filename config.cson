@@ -17,5 +17,7 @@
     tabLength: 4
   linter:
     errorPanelHeight: 144
+    showErrorPanel: false
+    lintOnFly: false
   "atom-beautify":
     _analyticsUserId: "7d7812d1-2cd0-44c2-8366-bc81a9fc5d5c"
