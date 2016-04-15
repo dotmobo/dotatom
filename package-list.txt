@@ -16,3 +16,7 @@ highlight-selected
 language-restructuredtext
 MagicPython
 language-livescript
+linter-docker
+language-docker
+atom-jade
+stylus
