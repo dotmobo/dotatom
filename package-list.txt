@@ -19,3 +19,4 @@ language-livescript
 language-docker
 atom-jade
 stylus
+script
