@@ -17,6 +17,6 @@ language-restructuredtext
 MagicPython
 language-livescript
 language-docker
-atom-jade
+language-pug
 stylus
 script
